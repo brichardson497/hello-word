@@ -1,3 +1,6 @@
 # hello-word
-Education project  area
-Use to be a Paradox database programmer.  Now learning Python and Java.
+Education project area.
+
+I use to be a Paradox database programmer back in the 19802.  
+
+Now I am looking to learn Python, Java, and other modern programming languages.
